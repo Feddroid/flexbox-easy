@@ -6,6 +6,7 @@
   gap: 1rem;
   padding: 1rem;
 }
+
 .child{
   background-color: yellow;
   display: flex;
